@@ -1,0 +1,37 @@
+{
+    "logo" : {
+        "source": "images/logo.png",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "Inicio",
+            "href": "/"
+        },
+        {
+            "title": "Acerca de mí",
+            "href": "/about"
+        },
+        {
+            "title": "Experiencia",
+            "href": "/experience"
+        },
+         
+        {
+            "title": "Representaciones",
+            "href": "/representations"
+        },
+        {
+            "title": "CV_ES",
+            "href": "https://drive.google.com/file/d/1sc-ho2HQjPnylDTgb89uS0XtFcn-BNA5/view?usp=sharing",
+            "type": "link"
+        },
+        {
+            "title": "CV_EN",
+            "href": "https://drive.google.com/file/d/1NmUHVuaNHBrYd_LcTygQAMThhV4j0d7n/view?usp=sharing",
+            "type": "link"
+        }
+    ]
+
+}

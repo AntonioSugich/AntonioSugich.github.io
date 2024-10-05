@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "",
+            "cardTitle": "Ingeniería Mecánica",
+            "cardSubtitle":"Instituto Tecnológico de Hermosillo",
+            "cardDetailedText": "(1985-1990)",
+            "icon" : {
+                "src": "images/education/ith-logo.webp"
+            }
+        },
+        {
+            "title": "",
+            "cardTitle": "Hermosillo, Sonora",
+            "cardSubtitle":"CBTIS 11",
+            "cardDetailedText": "(1982-1985)",
+            "icon" : {
+                "src": "images/education/cbtis-logo.webp"
+            }
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+            "title": "Automatización y Control",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/siemens-logo.webp",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/delta-logo.svg",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/phoenix-logo.jpg",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/teslascada.png",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/inductive.png",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/gf-logo.svg",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/abb-logo.webp",
+                    "title": ""
+                }
+        ]},
+        {
+            "title": "Building Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/hik.webp",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/phoenix-logo.jpg",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/zkt.png",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/notifier.png",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/innotech.png",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/php.png",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "title" : "Comunicaciones y Protocolos",
+            "items": [
+                {
+                    "icon": "images/skills/unifi-logo.ico",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/grandstream.webp",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/panduit-logo.svg",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/bacnet-logo.jpg",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/profinet-logo.svg",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/odva-logo.jpg",
+                    "title": ""
+                },
+                {
+                    "icon": "images/skills/modbus-logo.jpg",
+                    "title": ""
+                }
+            ]
+    }
+]}

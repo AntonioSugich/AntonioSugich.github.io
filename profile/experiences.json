@@ -1,0 +1,50 @@
+{
+    "experiences": [
+        {
+            "title": "Automatización",
+            "subtitle": "PEPSI-COLA",
+            "workType": "",
+            "workDescription": [
+                "Automatización del proceso de dosificación de CO2 en la planta embotelladora de PEPSI-COLA en Tijuana, Baja California"
+            ],
+            "dateText": "Alimentos"
+        },
+        {
+            "title": "Automatización",
+            "subtitle": "CFE",
+            "workType": "",
+            "workDescription": [
+                "Automatización para funcionamiento autónomo y control remoto de flujo en compuertas en presa reguladora Amata-ComederosCuliacán, Sinaloa. CFE."
+            ],
+            "dateText": "Sector Público"
+        },
+        {
+            "title": "Sistema de Telemetría",
+            "subtitle": "Grupo México",
+            "workType": "",
+            "workDescription": [
+                "Sistema de Telemetría para control y operación de equipos de bombeo en aguas de proceso (doce bombas de 1500 hp cada una, 4160Vac). Mexicana de Cobre. Nacozari, Sonora."
+            ],
+            "dateText": "Minería"
+        },
+        {
+            "title": "Actualización y Sistema de Control",
+            "subtitle": "Grupo Bimbo",
+            "workType": "",
+            "workDescription": [
+                "Modernización en Sistema de Control y Manejo de Harinas, Bimbo del Noroeste, Planta Hermosillo."
+            ],
+            "dateText": "Alimentos"
+        },
+
+        {
+            "title": "Automatización",
+            "subtitle": "Ford Hermosillo",
+            "workType": "",
+            "workDescription": [
+                "Automatización de Sistema de Aire Acondicionado e Iluminación para Ahorro de Energía, Planta Ford Hermosillo"
+            ],
+            "dateText": "Automotriz"
+        }
+    ]
+}

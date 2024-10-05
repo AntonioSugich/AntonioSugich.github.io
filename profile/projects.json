@@ -1,0 +1,82 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/zendata.png",
+            "title": "Zen Data",
+            "bodyText": "- Promoción\n -  Representación\n - Proyectos de analítica de datos y desarrollo de software",
+            "links": [
+                {
+                    "text": "Sitio Web",
+                    "href": "https://zendata.mx/"
+                },
+                {
+                    "text": "Correo Contacto",
+                    "href": "mailto:ventas@zendata.com.mx"
+                },
+                {
+                    "text": "WhatsApp",
+                    "href": "https://wa.me/5216621040617"
+                }
+              
+            ],
+            "tags" : [
+                "Software",
+                "Web apps",
+                "Phone apps"
+            ]
+        },
+        {
+            "image" : "images/projects/proin.png",
+            "title": "PROIN",
+            "bodyText": "- Proyectos de infraestructura en tecnología",
+            "links": [
+                {
+                    "text": "Sitio Web",
+                    "href": "https://cv.proinhmo.com/index.html"
+                },
+                {
+                    "text": "Correo Contacto",
+                    "href": "mailto:ventas@proinhmo.com"
+                },
+                {
+                    "text": "WhatsApp",
+                    "href": "https://wa.me/5216621040617"
+                }
+            ],
+            "tags" : [
+                "CCTV",
+                "Detección de incendio",
+                "Redes de voz y datos",
+                "Iluminación",
+                "Fibra óptica"
+           
+            ]
+        },
+        {
+            "image" : "images/projects/gf.png",
+            "title": "Georg Fischer Ltd",
+            "bodyText": "- Sistemas para manejo de fluidos",
+            "links": [
+                {
+                    "text": "Sitio Web",
+                    "href": "https://www.georgfischer.com/en.html"
+                },
+                {
+                    "text": "Correo Contacto",
+                    "href": "mailto:juan.sugich@georgfischer.com"
+                },
+                {
+                    "text": "WhatsApp",
+                    "href": "https://wa.me/5216621040617"
+                }
+            ],
+            "tags" : [
+                "Fluidos",
+                "Instrumentación",
+                "Proceso",
+                "Medición"
+            ]
+        }
+       
+    ]
+}

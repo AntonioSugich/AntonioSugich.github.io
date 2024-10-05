@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/juan-s-10aa1717"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/AntonioSugich"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:sugich@gmail.com"
+        }
+    ]
+}
